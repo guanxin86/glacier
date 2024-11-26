@@ -10,6 +10,4 @@ chmod +x verifier_linux_amd64
 ./verifier_linxu_amd64
 ```
 ## 文件下载
-*v0.0.2 for now*
-
-[release](https://github.com/Glacier-Labs/node-bootstrap/releases)
+[release](https://github.com/Glacier-Labs/node-bootstrap/releases)*(v0.0.2 for now)*
